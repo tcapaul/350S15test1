@@ -1,4 +1,2 @@
 test first line
 second line -- added on GitHub repo
-
-added this line as part of new branch.
